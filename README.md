@@ -1,13 +1,19 @@
 # Simple To-do to practice basic useReducer
 
-**To install dependencies:**
+- Clone the project
 
-```
-npm install
+```bash
+  git clone https://github.com/mkdrx/todo-list.git
 ```
 
-**Run on http://localhost:3000 and the command to start dev mode**
+- Go to the project directory
 
+```bash
+  cd todo-list
 ```
-npm start
+
+- Install dependencies
+
+```bash
+  npm install
 ```
